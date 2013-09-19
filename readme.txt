@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-ACF Meio Mask Field - addon for ACF, custom field based on jquery.meiomask.js
+ACF Meio Mask Field - addon for ACF, adds custom field into ACF, based on jquery.meiomask.js
 
 == Installation ==
 
