@@ -20,7 +20,7 @@ ACF Meio Mask Field - addon for ACF, adds custom field into ACF, based on jquery
 
 == Frequently Asked Questions ==
 
--
+None
 
 == Screenshots ==
 
@@ -38,8 +38,8 @@ None
 
 == Arbitrary section ==
 
--
+None
 
 == A brief Markdown Example ==
 
--
+None
