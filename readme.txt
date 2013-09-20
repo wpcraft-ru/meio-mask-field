@@ -10,13 +10,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-ACF Meio Mask Field - addon for ACF, adds custom field into ACF, based on jquery.meiomask.js
+ACF Meio Mask Field - addon for Advanced Custom Fields, adds custom field into Advanced Custom Fields, based on jquery.meiomask.js
 
 == Installation ==
 
 1. Upload zip and unzip this into the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Use new field into ACF;) 
+3. Use new field into Advanced Custom Fields ;) 
 
 == Frequently Asked Questions ==
 
