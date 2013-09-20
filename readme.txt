@@ -24,7 +24,7 @@ None
 
 == Screenshots ==
 
-None
+1. screenshot-1.png - shows active state of the like button.
 
 == Changelog ==
 
